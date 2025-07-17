@@ -37,7 +37,7 @@
 <div>To see matching outfits for little humans, click <a href="https://www.winterwaterfactory.com/collections/in-the-forest" target="_blank" title="Hazel Village + Winter Water Factory matching prints" rel="noopener noreferrer">here</a>.<br> <br> ABOUT OWEN FOX<br> <b><br></b><meta charset="utf-8">
 <span>Owen loves to go to his secret tree house and practice his dance moves. He says he's such a nimble dancer because he has a low center of gravity. But the other animals, who have similarly low centers of gravity, say he just has a lot of energy.</span><br> <br><meta charset="utf-8">
 <span>He is made of organic cotton fleece, with white fleece on his nose and tail. He measures about 15 inches, ear to toe. He is stuffed with washable fiberfill. His eyes, nose, and whiskers are hand embroidered with cotton thread. If and when he gets scuffed or grimy, he can be hand-washed and he will air dry.</span><br>
-</div>`;
+</div><div>new</div>`;
 
 	let exampledirty = `<meta charset="utf-8">
 <p>Their new favorite pants in our <span data-sheets-value='{"1":2,"2":"Bug Collection print! A gallery of insects that would make any tiny entomologist proud."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":{"1":2,"2":2173750},"15":"-apple-system, system-ui, \"San Francisco\", Roboto, \"Segoe UI\", \"Helvetica Neue\", sans-serif","16":11}'>Bug Collection print! A gallery of insects that would make any tiny entomologist proud.</span></p>
